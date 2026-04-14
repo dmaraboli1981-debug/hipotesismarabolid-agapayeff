@@ -1,0 +1,1 @@
+# Hipotesis MARABOLI - Cifrado DAgapeyeff (1939)\n\n**Autor:** Diego Hector Maraboli  \n**Fecha:** 15 de abril de 2026  \n**Version:** 4.0\n\n## Descripcion\n\nScripts de analisis para la Hipotesis MARABOLI.\n\n## Resultados Clave\n\n- **ICE:** 51.3%\n- **p-valor:** < 0.001\n- **Reversibilidad:** 100%\n\n## Contacto\n\ndmaraboli1981@protonmail.com\n

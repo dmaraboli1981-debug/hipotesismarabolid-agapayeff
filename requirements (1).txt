@@ -1,0 +1,1 @@
+numpy>=1.20.0\nscikit-learn>=1.0.0\n

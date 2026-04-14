@@ -1,0 +1,728 @@
+{
+  "metadata": {
+    "sistema": "MARABOLI",
+    "version": "5.1",
+    "autor": "Diego Hector Maraboli",
+    "fecha": "2026-04-14"
+  },
+  "resultados": {
+    "n_coordenadas": 79,
+    "ice": 0.4430379746835443,
+    "p_value": 0.25985,
+    "significativo": false,
+    "error_medio_km": 45.569589459267895
+  },
+  "coordenadas": [
+    {
+      "Bloque_N": 1,
+      "Bloque": "75628",
+      "Latitud": 75.0,
+      "Longitud": 62.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 2,
+      "Bloque": "28591",
+      "Latitud": 28.0,
+      "Longitud": 59.1,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 3,
+      "Bloque": "62916",
+      "Latitud": 62.0,
+      "Longitud": 91.6,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 4,
+      "Bloque": "48164",
+      "Latitud": 48.0,
+      "Longitud": 16.4,
+      "Hemisferio": "N",
+      "Ubicacion": "Europa",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 5,
+      "Bloque": "91748",
+      "Latitud": 9.0,
+      "Longitud": 74.8,
+      "Hemisferio": "S",
+      "Ubicacion": "Oceano Indico",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 6,
+      "Bloque": "58464",
+      "Latitud": 58.0,
+      "Longitud": 46.4,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 7,
+      "Bloque": "74748",
+      "Latitud": 74.0,
+      "Longitud": 74.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 8,
+      "Bloque": "28483",
+      "Latitud": 28.0,
+      "Longitud": 48.3,
+      "Hemisferio": "N",
+      "Ubicacion": "Oriente Medio",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 9,
+      "Bloque": "81638",
+      "Latitud": 81.0,
+      "Longitud": 63.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 10,
+      "Bloque": "18174",
+      "Latitud": 18.0,
+      "Longitud": 17.4,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 11,
+      "Bloque": "74826",
+      "Latitud": 74.0,
+      "Longitud": 82.6,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 12,
+      "Bloque": "26475",
+      "Latitud": 26.0,
+      "Longitud": 47.5,
+      "Hemisferio": "N",
+      "Ubicacion": "Oriente Medio",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 13,
+      "Bloque": "83828",
+      "Latitud": 83.0,
+      "Longitud": 82.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 14,
+      "Bloque": "49175",
+      "Latitud": 49.0,
+      "Longitud": 17.5,
+      "Hemisferio": "N",
+      "Ubicacion": "Europa",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 15,
+      "Bloque": "74658",
+      "Latitud": 74.0,
+      "Longitud": 65.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 16,
+      "Bloque": "37575",
+      "Latitud": 37.0,
+      "Longitud": 57.5,
+      "Hemisferio": "N",
+      "Ubicacion": "Oriente Medio",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 17,
+      "Bloque": "75936",
+      "Latitud": 75.0,
+      "Longitud": 93.6,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 18,
+      "Bloque": "36565",
+      "Latitud": 36.0,
+      "Longitud": 56.5,
+      "Hemisferio": "N",
+      "Ubicacion": "Oriente Medio",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 19,
+      "Bloque": "81638",
+      "Latitud": 81.0,
+      "Longitud": 63.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": true
+    },
+    {
+      "Bloque_N": 20,
+      "Bloque": "17585",
+      "Latitud": 17.0,
+      "Longitud": 58.5,
+      "Hemisferio": "N",
+      "Ubicacion": "Oriente Medio",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 21,
+      "Bloque": "75756",
+      "Latitud": 75.0,
+      "Longitud": 75.6,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 22,
+      "Bloque": "46282",
+      "Latitud": 46.0,
+      "Longitud": 28.2,
+      "Hemisferio": "N",
+      "Ubicacion": "Europa",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 23,
+      "Bloque": "92857",
+      "Latitud": 8.0,
+      "Longitud": 85.7,
+      "Hemisferio": "S",
+      "Ubicacion": "Oceano Indico",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 24,
+      "Bloque": "46382",
+      "Latitud": 46.0,
+      "Longitud": 38.2,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 25,
+      "Bloque": "75748",
+      "Latitud": 75.0,
+      "Longitud": 74.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 26,
+      "Bloque": "38165",
+      "Latitud": 38.0,
+      "Longitud": 16.5,
+      "Hemisferio": "N",
+      "Ubicacion": "Europa",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 27,
+      "Bloque": "81848",
+      "Latitud": 81.0,
+      "Longitud": 84.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 28,
+      "Bloque": "56485",
+      "Latitud": 56.0,
+      "Longitud": 48.5,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 29,
+      "Bloque": "64858",
+      "Latitud": 64.0,
+      "Longitud": 85.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 30,
+      "Bloque": "56382",
+      "Latitud": 56.0,
+      "Longitud": 38.2,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 31,
+      "Bloque": "72628",
+      "Latitud": 72.0,
+      "Longitud": 62.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 32,
+      "Bloque": "36281",
+      "Latitud": 36.0,
+      "Longitud": 28.1,
+      "Hemisferio": "N",
+      "Ubicacion": "Europa",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 33,
+      "Bloque": "81728",
+      "Latitud": 81.0,
+      "Longitud": 72.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 34,
+      "Bloque": "16463",
+      "Latitud": 16.0,
+      "Longitud": 46.3,
+      "Hemisferio": "N",
+      "Ubicacion": "Oriente Medio",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 35,
+      "Bloque": "75828",
+      "Latitud": 75.0,
+      "Longitud": 82.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 36,
+      "Bloque": "16483",
+      "Latitud": 16.0,
+      "Longitud": 48.3,
+      "Hemisferio": "N",
+      "Ubicacion": "Oriente Medio",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 37,
+      "Bloque": "63828",
+      "Latitud": 63.0,
+      "Longitud": 82.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 38,
+      "Bloque": "58163",
+      "Latitud": 58.0,
+      "Longitud": 16.3,
+      "Hemisferio": "N",
+      "Ubicacion": "Europa",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 39,
+      "Bloque": "63630",
+      "Latitud": 63.0,
+      "Longitud": 63.0,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 40,
+      "Bloque": "47481",
+      "Latitud": 47.0,
+      "Longitud": 48.1,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 41,
+      "Bloque": "91918",
+      "Latitud": 9.0,
+      "Longitud": 91.8,
+      "Hemisferio": "S",
+      "Ubicacion": "Oceano Indico",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 42,
+      "Bloque": "46385",
+      "Latitud": 46.0,
+      "Longitud": 38.5,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 43,
+      "Bloque": "84656",
+      "Latitud": 84.0,
+      "Longitud": 65.6,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 44,
+      "Bloque": "48565",
+      "Latitud": 48.0,
+      "Longitud": 56.5,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 45,
+      "Bloque": "62946",
+      "Latitud": 62.0,
+      "Longitud": 94.6,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 46,
+      "Bloque": "26285",
+      "Latitud": 26.0,
+      "Longitud": 28.5,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 47,
+      "Bloque": "91859",
+      "Latitud": 9.0,
+      "Longitud": 85.9,
+      "Hemisferio": "S",
+      "Ubicacion": "Oceano Indico",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 48,
+      "Bloque": "17491",
+      "Latitud": 17.0,
+      "Longitud": 49.1,
+      "Hemisferio": "N",
+      "Ubicacion": "Oriente Medio",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 49,
+      "Bloque": "72756",
+      "Latitud": 72.0,
+      "Longitud": 75.6,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 50,
+      "Bloque": "46575",
+      "Latitud": 46.0,
+      "Longitud": 57.5,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 51,
+      "Bloque": "71658",
+      "Latitud": 71.0,
+      "Longitud": 65.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 52,
+      "Bloque": "36264",
+      "Latitud": 36.0,
+      "Longitud": 26.4,
+      "Hemisferio": "N",
+      "Ubicacion": "Europa",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 53,
+      "Bloque": "74818",
+      "Latitud": 74.0,
+      "Longitud": 81.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 54,
+      "Bloque": "28462",
+      "Latitud": 28.0,
+      "Longitud": 46.2,
+      "Hemisferio": "N",
+      "Ubicacion": "Oriente Medio",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 55,
+      "Bloque": "82649",
+      "Latitud": 82.0,
+      "Longitud": 64.9,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 56,
+      "Bloque": "18193",
+      "Latitud": 18.0,
+      "Longitud": 19.3,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 57,
+      "Bloque": "65626",
+      "Latitud": 65.0,
+      "Longitud": 62.6,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 58,
+      "Bloque": "48484",
+      "Latitud": 48.0,
+      "Longitud": 48.4,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 59,
+      "Bloque": "91838",
+      "Latitud": 9.0,
+      "Longitud": 83.8,
+      "Hemisferio": "S",
+      "Ubicacion": "Oceano Indico",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 60,
+      "Bloque": "57491",
+      "Latitud": 57.0,
+      "Longitud": 49.1,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 61,
+      "Bloque": "81657",
+      "Latitud": 81.0,
+      "Longitud": 65.7,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 62,
+      "Bloque": "27483",
+      "Latitud": 27.0,
+      "Longitud": 48.3,
+      "Hemisferio": "N",
+      "Ubicacion": "Oriente Medio",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 63,
+      "Bloque": "83858",
+      "Latitud": 83.0,
+      "Longitud": 85.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 64,
+      "Bloque": "28364",
+      "Latitud": 28.0,
+      "Longitud": 36.4,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 65,
+      "Bloque": "62726",
+      "Latitud": 62.0,
+      "Longitud": 72.6,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 66,
+      "Bloque": "26562",
+      "Latitud": 26.0,
+      "Longitud": 56.2,
+      "Hemisferio": "N",
+      "Ubicacion": "Oriente Medio",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 67,
+      "Bloque": "83759",
+      "Latitud": 83.0,
+      "Longitud": 75.9,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 68,
+      "Bloque": "27263",
+      "Latitud": 27.0,
+      "Longitud": 26.3,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 69,
+      "Bloque": "82827",
+      "Latitud": 82.0,
+      "Longitud": 82.7,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 70,
+      "Bloque": "27283",
+      "Latitud": 27.0,
+      "Longitud": 28.3,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 71,
+      "Bloque": "82858",
+      "Latitud": 82.0,
+      "Longitud": 85.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 72,
+      "Bloque": "47582",
+      "Latitud": 47.0,
+      "Longitud": 58.2,
+      "Hemisferio": "N",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 73,
+      "Bloque": "81837",
+      "Latitud": 81.0,
+      "Longitud": 83.7,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 74,
+      "Bloque": "28462",
+      "Latitud": 28.0,
+      "Longitud": 46.2,
+      "Hemisferio": "N",
+      "Ubicacion": "Oriente Medio",
+      "Repeticion": true
+    },
+    {
+      "Bloque_N": 75,
+      "Bloque": "82837",
+      "Latitud": 82.0,
+      "Longitud": 83.7,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 76,
+      "Bloque": "58164",
+      "Latitud": 58.0,
+      "Longitud": 16.4,
+      "Hemisferio": "N",
+      "Ubicacion": "Europa",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 77,
+      "Bloque": "75748",
+      "Latitud": 75.0,
+      "Longitud": 74.8,
+      "Hemisferio": "N",
+      "Ubicacion": "Artico Ruso",
+      "Repeticion": true
+    },
+    {
+      "Bloque_N": 78,
+      "Bloque": "58162",
+      "Latitud": 58.0,
+      "Longitud": 16.2,
+      "Hemisferio": "N",
+      "Ubicacion": "Europa",
+      "Repeticion": false
+    },
+    {
+      "Bloque_N": 79,
+      "Bloque": "92000",
+      "Latitud": 8.0,
+      "Longitud": 0.0,
+      "Hemisferio": "S",
+      "Ubicacion": "Otras",
+      "Repeticion": false
+    }
+  ]
+}

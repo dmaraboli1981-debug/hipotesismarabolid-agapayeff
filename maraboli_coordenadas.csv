@@ -1,0 +1,80 @@
+Bloque_N,Bloque,Latitud,Longitud,Hemisferio,Ubicacion,Repeticion
+1,75628,75,62.8,N,Artico Ruso,False
+2,28591,28,59.1,N,Otras,False
+3,62916,62,91.6,N,Artico Ruso,False
+4,48164,48,16.4,N,Europa,False
+5,91748,9,74.8,S,Oceano Indico,False
+6,58464,58,46.4,N,Artico Ruso,False
+7,74748,74,74.8,N,Artico Ruso,False
+8,28483,28,48.3,N,Oriente Medio,False
+9,81638,81,63.8,N,Artico Ruso,False
+10,18174,18,17.4,N,Otras,False
+11,74826,74,82.6,N,Artico Ruso,False
+12,26475,26,47.5,N,Oriente Medio,False
+13,83828,83,82.8,N,Artico Ruso,False
+14,49175,49,17.5,N,Europa,False
+15,74658,74,65.8,N,Artico Ruso,False
+16,37575,37,57.5,N,Oriente Medio,False
+17,75936,75,93.6,N,Artico Ruso,False
+18,36565,36,56.5,N,Oriente Medio,False
+19,81638,81,63.8,N,Artico Ruso,True
+20,17585,17,58.5,N,Oriente Medio,False
+21,75756,75,75.6,N,Artico Ruso,False
+22,46282,46,28.2,N,Europa,False
+23,92857,8,85.7,S,Oceano Indico,False
+24,46382,46,38.2,N,Otras,False
+25,75748,75,74.8,N,Artico Ruso,False
+26,38165,38,16.5,N,Europa,False
+27,81848,81,84.8,N,Artico Ruso,False
+28,56485,56,48.5,N,Otras,False
+29,64858,64,85.8,N,Artico Ruso,False
+30,56382,56,38.2,N,Otras,False
+31,72628,72,62.8,N,Artico Ruso,False
+32,36281,36,28.1,N,Europa,False
+33,81728,81,72.8,N,Artico Ruso,False
+34,16463,16,46.3,N,Oriente Medio,False
+35,75828,75,82.8,N,Artico Ruso,False
+36,16483,16,48.3,N,Oriente Medio,False
+37,63828,63,82.8,N,Artico Ruso,False
+38,58163,58,16.3,N,Europa,False
+39,63630,63,63.0,N,Artico Ruso,False
+40,47481,47,48.1,N,Otras,False
+41,91918,9,91.8,S,Oceano Indico,False
+42,46385,46,38.5,N,Otras,False
+43,84656,84,65.6,N,Artico Ruso,False
+44,48565,48,56.5,N,Otras,False
+45,62946,62,94.6,N,Artico Ruso,False
+46,26285,26,28.5,N,Otras,False
+47,91859,9,85.9,S,Oceano Indico,False
+48,17491,17,49.1,N,Oriente Medio,False
+49,72756,72,75.6,N,Artico Ruso,False
+50,46575,46,57.5,N,Otras,False
+51,71658,71,65.8,N,Artico Ruso,False
+52,36264,36,26.4,N,Europa,False
+53,74818,74,81.8,N,Artico Ruso,False
+54,28462,28,46.2,N,Oriente Medio,False
+55,82649,82,64.9,N,Artico Ruso,False
+56,18193,18,19.3,N,Otras,False
+57,65626,65,62.6,N,Artico Ruso,False
+58,48484,48,48.4,N,Otras,False
+59,91838,9,83.8,S,Oceano Indico,False
+60,57491,57,49.1,N,Otras,False
+61,81657,81,65.7,N,Artico Ruso,False
+62,27483,27,48.3,N,Oriente Medio,False
+63,83858,83,85.8,N,Artico Ruso,False
+64,28364,28,36.4,N,Otras,False
+65,62726,62,72.6,N,Artico Ruso,False
+66,26562,26,56.2,N,Oriente Medio,False
+67,83759,83,75.9,N,Artico Ruso,False
+68,27263,27,26.3,N,Otras,False
+69,82827,82,82.7,N,Artico Ruso,False
+70,27283,27,28.3,N,Otras,False
+71,82858,82,85.8,N,Artico Ruso,False
+72,47582,47,58.2,N,Otras,False
+73,81837,81,83.7,N,Artico Ruso,False
+74,28462,28,46.2,N,Oriente Medio,True
+75,82837,82,83.7,N,Artico Ruso,False
+76,58164,58,16.4,N,Europa,False
+77,75748,75,74.8,N,Artico Ruso,True
+78,58162,58,16.2,N,Europa,False
+79,92000,8,0.0,S,Otras,False
